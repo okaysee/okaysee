@@ -1,0 +1,42 @@
+body {
+  background: #E93B17;
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  color: #111111;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 480px;
+  margin-top: 120px;
+}
+
+h1 {
+  font-size: 60px;
+  line-height:72px;
+  position: relative;
+  left: -3px;
+  margin: 0 0 24px 0;
+  color: #FFFFFF;
+  opacity: .9;
+}
+
+p {
+  margin: 0 0 24px 0;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+a {
+  color: #111111;
+}
+
+.social {
+  height: 24px;
+  margin-right: 4px;
+  opacity: 0.5;
+}
+
+.social:hover {
+  opacity: 1;
+}
