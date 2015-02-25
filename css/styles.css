@@ -31,6 +31,10 @@ a {
   color: #111111;
 }
 
+a:hover {
+  color: #FFF;
+}
+
 .social {
   height: 24px;
   margin-right: 4px;
